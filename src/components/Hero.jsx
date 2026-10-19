@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import profileImg from '../assets/profile.png';
+import profileImg from '../assets/profile.jpg';
 
 export default function Hero() {
   return (
